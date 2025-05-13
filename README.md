@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+"<?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Nền vuông màu đen -->
     <item>
@@ -20,4 +20,4 @@
                 android:pathData="M8,5v14l11,-7z"/>
         </vector>
     </item>
-</layer-list>
+</layer-list>"
